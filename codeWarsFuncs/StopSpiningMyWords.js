@@ -21,8 +21,4 @@
         console.log(revArr)
       }
       spinWords("Hey fellow warriors")
-    return (
-        <div>
-            
-        </div>
-    );
+ 
